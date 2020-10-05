@@ -10,7 +10,7 @@ function App() {
     <div className="App">
         <Header />
 
-        <Store age={24} name={'Darina'} />
+        <Store />
 
         <Footer />
     </div>
